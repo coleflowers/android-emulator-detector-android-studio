@@ -26,5 +26,9 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
-    compile project(':library')
+
+    //compile project(':library')
+
+    compile 'com.github.coleflowers:android-emulator-detector-android-studio:1.0'
+
 }
