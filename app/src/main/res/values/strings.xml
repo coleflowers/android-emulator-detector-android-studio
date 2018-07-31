@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-emulator-detector-sample</string>
+    <string name="emulator_status_yes">The device is emulator!</string>
+    <string name="emulator_status_no">The device is not a emulator!</string>
+</resources>
