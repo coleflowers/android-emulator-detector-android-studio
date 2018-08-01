@@ -1,7 +1,7 @@
 Android Emulator Detector For Android Studio 
 =========================
-[![Release](https://jitpack.io/v/User/Repo.svg)]
-(https://jitpack.io/#coleflowers/android-emulator-detector-android-studio)
+
+[![Release](https://jitpack.io/v/coleflowers/android-emulator-detector-android-studio.svg)](https://jitpack.io/#coleflowers/android-emulator-detector-android-studio)
 
 Code base on [gingo/android-emulator-detector][1]
 
