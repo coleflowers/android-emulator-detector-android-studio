@@ -30,9 +30,4 @@ dependencies {
     compile project(':library')
 
     //implementation 'com.github.coleflowers:android-emulator-detector-android-studio:1.0.1'
-
-//     compile 'com.github.coleflowers:android-emulator-detector-android-studio:1.0.1'
-    //implementation 'com.github.coleflowers:android-emulator-detector-android-studio:-SNAPSHOT'
-
-
 }
