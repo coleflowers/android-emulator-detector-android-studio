@@ -23,7 +23,17 @@ dependencies {
     compile 'com.github.coleflowers:android-emulator-detector-android-studio:1.0.2'
 }
 ```
- 
 
+and:
+```java
+ import net.skoumal.emulatordetector.EmulatorDetector;
+```
+```java
+if (EmulatorDetector.isEmulator()){
+    // do something
+} else {
+    // do something
+}
+```
 
   [1]: https://github.com/gingo/android-emulator-detector
